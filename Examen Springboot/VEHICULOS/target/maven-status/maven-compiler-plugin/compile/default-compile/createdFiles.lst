@@ -1,0 +1,3 @@
+com\vehiculos\entity\Vehiculo.class
+com\vehiculos\repository\VehiculoRepository.class
+com\vehiculos\crudvehiculos\controller\VehiculoController.class
