@@ -1,0 +1,13 @@
+com\vehiculos\crudvehiculos\model\Vehiculo.class
+com\vehiculos\exception\DuplicateResourceException.class
+com\vehiculos\entity\Vehiculo.class
+com\vehiculos\crudvehiculos\repository\VehiculoRepository.class
+com\vehiculos\crudvehiculos\controller\VehiculoController.class
+com\vehiculos\crudvehiculos\CrudVehiculosApplication.class
+com\vehiculos\crudvehiculos\service\VehiculoService.class
+com\vehiculos\controller\VehiculoController.class
+com\vehiculos\service\VehiculoService.class
+com\vehiculos\service\VehiculoServiceImpl.class
+com\vehiculos\exception\GlobalExceptionHandler.class
+com\vehiculos\repository\VehiculoRepository.class
+com\vehiculos\exception\ResourceNotFoundException.class
