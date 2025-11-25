@@ -1,0 +1,20 @@
+spring:
+  application:
+    name: edugestion-backend
+  data:
+    mongodb:
+      uri: ${MONGODB_URI:}
+
+server:
+  port: 8080
+
+security:
+  jwt:
+    secret: ${JWT_SECRET:CHANGE_ME}
+    expiration: 3600000
+
+springdoc:
+  api-docs:
+    enabled: true
+  swagger-ui:
+    enabled: true
